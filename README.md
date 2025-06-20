@@ -36,19 +36,7 @@ Python 3.x
 
 (No need to install any external libraries. Only uses Python's built-in sqlite3 module.)
 
-How to run
-Clone the repository:
 
-bash
-Copiar
-Editar
-git clone https://github.com/your-username/your-repo-name.git
-Run the Python script:
-
-nginx
-Copiar
-Editar
-python your_script_name.py
 Notes
 All data is stored in a local file called tasks (SQLite database).
 
