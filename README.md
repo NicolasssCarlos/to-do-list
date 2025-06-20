@@ -28,6 +28,7 @@ Tasks are shown like this:
 
 
 1 - Go to the gym - To Do
+
 2 - Play some games - Complete
 You manage tasks by typing their ID number.
 
